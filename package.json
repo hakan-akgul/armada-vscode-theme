@@ -3,7 +3,7 @@
     "displayName": "armada",
     "publisher": "hakan-akgul",
     "description": "A flat dark theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.59.0"
     },
