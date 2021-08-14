@@ -1,0 +1,43 @@
+{
+    "name": "armada",
+    "displayName": "Armada Color Theme",
+    "version": "1.0",
+    "publisher": "hakan-akgul",
+    "author": {
+        "name": "Hakan Akgul",
+        "email": "hakan.akgul@outlook.com.tr"
+    },
+    "description": "A flat dark theme",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/hakan-akgul/armada/README.md",
+    "keywords": [
+        "theme",
+        "dark",
+        "armada",
+        "minimal",
+        "minimalism"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hakan-akgul/armada.git"
+    },
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "armada",
+                "uiTheme": "vs-dark",
+                "path": "./themes/armada-color-theme.json"
+            }
+        ]
+    },
+    "activationEvents": [
+        "onLanguage:markdown"
+    ]
+}
