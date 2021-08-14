@@ -1,37 +1,15 @@
 {
     "name": "armada",
-    "displayName": "Armada Color Theme",
-    "version": "1.0",
+    "displayName": "armada",
     "publisher": "hakan-akgul",
-    "author": {
-        "name": "Hakan Akgul",
-        "email": "hakan.akgul@outlook.com.tr"
-    },
     "description": "A flat dark theme",
+    "version": "1.0.1",
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.59.0"
     },
     "categories": [
         "Themes"
     ],
-    "bugs": {
-        "url": "https://github.com/hakan-akgul/armada/issues",
-        "email": "hakan.akgul@outlook.com.tr"
-    },
-    "license": "CC-BY-4.0",
-    "homepage": "https://github.com/hakan-akgul/armada/README.md",
-    "keywords": [
-        "theme",
-        "dark",
-        "armada",
-        "minimal",
-        "minimalism"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hakan-akgul/armada.git"
-    },
-    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
@@ -41,7 +19,31 @@
             }
         ]
     },
-    "activationEvents": [
-        "onLanguage:markdown"
-    ]
+    "galleryBanner": {
+        "color": "#f14c4c",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/hakan-akgul/armada/README.md",
+    "icon": "images/icon.png",
+    "qna": "https://github.com/hakan-akgul/armada/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hakan-akgul/armada.git"
+    },
+    "author": {
+        "email": "hakan.akgul@outlook.com.tr",
+        "name": "Hakan Akgul"
+    },
+    "bugs": {
+        "email": "hakan.akgul@outlook.com.tr",
+        "url": "https://github.com/hakan-akgul/armada/issues"
+    },
+    "keywords": [
+        "armada",
+        "theme",
+        "dark",
+        "minimal",
+        "dark theme"
+    ],
+    "license": "CC-BY-4.0"
 }
