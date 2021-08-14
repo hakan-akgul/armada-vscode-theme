@@ -1,5 +1,5 @@
 # Armada Color Theme
-## A flat dark theme for who loves minimalism
+## A flat dark theme for minimalism lovers
 
 <br>
 <hr>
@@ -8,8 +8,8 @@
 ## Screenshots
 
 
-![HTML syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-html.jpg)
-![JavaScript syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-js.jpg) 
+![HTML syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-html.png)
+![JavaScript syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-js.png) 
 
 
 <br>
