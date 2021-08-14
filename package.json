@@ -19,6 +19,7 @@
             }
         ]
     },
+    "icon": "images/Icon.png",
     "galleryBanner": {
         "color": "#f14c4c",
         "theme": "dark"
@@ -44,5 +45,10 @@
         "minimal",
         "dark theme"
     ],
-    "license": "CC-BY-4.0"
+    "license": "CC-BY-4.0",
+    "__metadata": {
+        "id": "79af0f75-e9dc-4a40-9bb9-5aeeb06e72eb",
+        "publisherDisplayName": "hakan-akgul",
+        "publisherId": "aece9fe0-c141-42ca-b341-d51156444132"
+    }
 }
