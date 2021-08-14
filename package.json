@@ -14,7 +14,11 @@
     "categories": [
         "Themes"
     ],
-    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hakan-akgul/armada/issues",
+        "email": "hakan.akgul@outlook.com.tr"
+    },
+    "license": "CC-BY-4.0",
     "homepage": "https://github.com/hakan-akgul/armada/README.md",
     "keywords": [
         "theme",
