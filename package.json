@@ -24,7 +24,6 @@
         "theme": "dark"
     },
     "homepage": "https://github.com/hakan-akgul/armada/README.md",
-    "icon": "images/icon.png",
     "qna": "https://github.com/hakan-akgul/armada/issues",
     "repository": {
         "type": "git",
