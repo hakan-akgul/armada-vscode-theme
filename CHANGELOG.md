@@ -10,3 +10,6 @@
 - Tabs have border now
 - Diff editor colors now more transparent
 - Typescript syntax improvements
+
+## v1.0.5
+- Typescript braces now gray
