@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "armada" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 - Initial release
+
+## v1.0.4
+
+- Selection & hover colors turns theme red
+- Tabs have border now
+- Diff editor colors now more transparent
+- Typescript syntax improvements

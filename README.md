@@ -2,8 +2,6 @@
 ## A flat dark theme for minimalism lovers
 
 <br>
-<hr>
-<br>
 
 ## Screenshots
 
@@ -11,42 +9,8 @@
 ![HTML syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-html.png)
 ![JavaScript syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-js.png) 
 
-
-<br>
-<hr>
 <br>
 
-## Installation
-
-1 - Open the __Extensions__ sidebar panel from within the Visual Studio Code editor window.
-
-<br>
-
-`Menu Path : View > Extensions`
-
-<br>
-
-`Keyboard Shortcut : Ctrl + Shift + X`
-
-2 - Search for the theme in the extension marketplace search and then click the __Install__ button.
-
-<br>
-
-__`Search Term : armada`__
-
-3 - Enable the installed theme from the Color Theme drop down list.
-
-<br>
-
-`Menu Path : Code / File > Preferences > Color Theme > armada`
-
-<br>
-
-`Keyboard Shortcut : Ctrl + K Ctrl + T`
-
-<br>
-<hr>
-<br>
 
 ## Share Extension
 

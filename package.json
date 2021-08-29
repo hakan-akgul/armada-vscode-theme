@@ -1,9 +1,9 @@
 {
     "name": "armada",
-    "displayName": "armada",
+    "displayName": "theme armada",
     "publisher": "hakan-akgul",
-    "description": "A flat dark theme",
-    "version": "1.0.3",
+    "description": "a flat dark theme for minimalism lovers",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.59.0"
     },
