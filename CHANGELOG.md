@@ -13,3 +13,8 @@
 
 ## v1.0.5
 - Typescript braces now gray
+
+## v1.0.6
+- Minor Typescript syntax improvements
+- Inlay Hint Colors Added
+- Select color changed
