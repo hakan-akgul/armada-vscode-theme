@@ -320,6 +320,7 @@
 		"terminal.selectionBackground": "#f14c4c33",
 		"terminalCursor.background": "#f14c4c",
 		"terminalCursor.foreground": "#f14c4c",
+		"terminal.tab.activeBorder": "#f14c4c",
 		"textLink.foreground": "#f14c4c",
 		"titleBar.activeBackground": "#2E353F",
 		"titleBar.activeForeground": "#95A1B2",
