@@ -18,3 +18,7 @@
 - Minor Typescript syntax improvements
 - Inlay Hint Colors Added
 - Select color changed
+
+## v1.1
+- Main theme is more darker
+- Old theme named as low contrast
