@@ -27,3 +27,6 @@
 - New dark color
 - Inlay hint colors update
 - Delete & Error colors update
+
+## v1.0.9
+- Low contrast tab border fix

@@ -3,7 +3,7 @@
     "displayName": "theme armada",
     "publisher": "hakan-akgul",
     "description": "a flat dark theme for minimalism lovers",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "engines": {
         "vscode": "^1.59.0"
     },
