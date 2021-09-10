@@ -19,6 +19,11 @@
 - Inlay Hint Colors Added
 - Select color changed
 
-## v1.1
+## v1.0.7
 - Main theme is more darker
 - Old theme named as low contrast
+
+## v1.0.8
+- New dark color
+- Inlay hint colors update
+- Delete & Error colors update
