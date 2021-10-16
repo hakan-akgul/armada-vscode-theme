@@ -30,3 +30,6 @@
 
 ## v1.0.9
 - Low contrast tab border fix
+
+## v1.0.10
+- Bracket match line colors added.
