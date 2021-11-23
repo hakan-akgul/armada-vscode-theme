@@ -32,4 +32,7 @@
 - Low contrast tab border fix
 
 ## v1.0.10
-- Bracket match line colors added.
+- Bracket match line colors added
+
+## v1.0.12
+- debug console colors updated

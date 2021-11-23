@@ -344,7 +344,11 @@
 		"tree.indentGuidesStroke": "#f14c4c",
 		"tree.tableColumnsBorder": "#4D596A",
 		"walkThrough.embeddedEditorBackground": "#131B23",
-		"widget.shadow": "#00000000"
+		"widget.shadow": "#00000000",
+		"debugConsole.errorForeground": "#F95738",
+		"debugConsole.infoForeground": "#0087FF",
+		"debugConsole.sourceForeground": "#95A1B2",
+		"debugConsole.warningForeground": "#FFEC5C"
 	},
 	"name": "armada",
 	"semanticHighlighting": true,
