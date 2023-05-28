@@ -1,60 +1,34 @@
 # Armada Color Theme
-## A flat dark theme for minimalism lovers
+## A flat dark theme for minimalism lovers  
 
-<br>
+  This theme is under heavy development! 
 
 ## Screenshots
 
-
-![HTML syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-html.png)
-![JavaScript syntax highlight](https://github.com/hakan-akgul/armada/raw/master/images/armada-js.png) 
-
-<br>
-
+![Screenshot](./images/screenshot.png)
 
 ## Share Extension
 
 Please share this theme extension with others that might find it useful.<br>
 
-__Share To :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://twitter.com/intent/tweet?url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada)
+__Share To :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://twitter.com/intent/tweet?url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada)  
 
-<br>
-<hr>
-<br>
+<hr>  
 
-## Feedback
+## Feedback  
 
-<br>
+[Issues](https://github.com/hakan-akgul/armada/issues)  
 
-[Issues](https://github.com/hakan-akgul/armada/issues)
+<hr>  
 
-<br>
-<hr>
-<br>
+## Follow Developer  
 
-## Follow Developer
+[LinkedIn](https://www.linkedin.com/in/hakan-akgül) &nbsp;&nbsp; | &nbsp;&nbsp; [GitHub](https://github.com/hakan-akgul/)  
 
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/hakan-akgül) &nbsp;&nbsp; | &nbsp;&nbsp; [GitHub](https://github.com/hakan-akgul/)
-
-<br>
-<hr>
-<br>
+<hr>  
 
 ## License
 
-__Creative Commons Attribution 4.0 International License__
+MIT
 
-<br>
-
-This work is licensed under the terms of the license available below.<br>
-
-__License :__ [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
-
-<br>
-<hr>
-<br>
-
-
-Copyright &copy; Hakan Akgul
+Copyright &copy; Hakan Akgül

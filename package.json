@@ -3,7 +3,7 @@
     "displayName": "theme armada",
     "publisher": "hakan-akgul",
     "description": "a flat dark theme for minimalism lovers",
-    "version": "1.0.12",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -16,17 +16,12 @@
                 "label": "armada",
                 "uiTheme": "vs-dark",
                 "path": "./themes/armada-color-theme.json"
-            },
-            {
-                "label": "armada low contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/armada-low-contrast-color-theme.json"
             }
         ]
     },
     "icon": "images/Icon.png",
     "galleryBanner": {
-        "color": "#f14c4c",
+        "color": "#F05454",
         "theme": "dark"
     },
     "homepage": "https://github.com/hakan-akgul/armada/README.md",
@@ -36,11 +31,11 @@
         "url": "https://github.com/hakan-akgul/armada.git"
     },
     "author": {
-        "email": "hakan.akgul@outlook.com.tr",
-        "name": "Hakan Akgul"
+        "email": "akgul.hakan.dev@gmail.com",
+        "name": "Hakan Akgül"
     },
     "bugs": {
-        "email": "hakan.akgul@outlook.com.tr",
+        "email": "akgul.hakan.dev@gmail.com",
         "url": "https://github.com/hakan-akgul/armada/issues"
     },
     "keywords": [
@@ -48,9 +43,9 @@
         "theme",
         "dark",
         "minimal",
-        "dark theme"
+        "flat"
     ],
-    "license": "CC-BY-4.0",
+    "license": "MIT",
     "__metadata": {
         "id": "79af0f75-e9dc-4a40-9bb9-5aeeb06e72eb",
         "publisherDisplayName": "hakan-akgul",
