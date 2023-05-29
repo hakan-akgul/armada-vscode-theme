@@ -1,5 +1,10 @@
 # Change Log
 
+## v2.1.0
+- Diff editor border updated
+- Suggestion widget colors updated
+- Input option button colors updated
+
 ## v2.0.0
 - Completely new design
 - License updated
