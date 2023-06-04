@@ -1,54 +1,54 @@
 {
-    "name": "armada",
-    "displayName": "theme armada",
-    "publisher": "hakan-akgul",
-    "description": "a flat dark theme for minimalism lovers",
-    "version": "2.1.0",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "armada",
-                "uiTheme": "vs-dark",
-                "path": "./themes/armada-color-theme.json"
-            }
-        ]
-    },
-    "icon": "images/Icon.png",
-    "galleryBanner": {
-        "color": "#F05454",
-        "theme": "dark"
-    },
-    "homepage": "https://github.com/hakan-akgul/armada/README.md",
-    "qna": "https://github.com/hakan-akgul/armada/issues",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hakan-akgul/armada.git"
-    },
-    "author": {
-        "email": "akgul.hakan.dev@gmail.com",
-        "name": "Hakan Akgül"
-    },
-    "bugs": {
-        "email": "akgul.hakan.dev@gmail.com",
-        "url": "https://github.com/hakan-akgul/armada/issues"
-    },
-    "keywords": [
-        "armada",
-        "theme",
-        "dark",
-        "minimal",
-        "flat"
-    ],
-    "license": "MIT",
-    "__metadata": {
-        "id": "79af0f75-e9dc-4a40-9bb9-5aeeb06e72eb",
-        "publisherDisplayName": "hakan-akgul",
-        "publisherId": "aece9fe0-c141-42ca-b341-d51156444132"
-    }
+  "name": "armada",
+  "displayName": "theme armada",
+  "publisher": "hakan-akgul",
+  "description": "a flat dark theme for minimalism lovers",
+  "version": "2.2.0",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "armada",
+        "uiTheme": "vs-dark",
+        "path": "./themes/armada-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/Icon.png",
+  "galleryBanner": {
+    "color": "#F05454",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/hakan-akgul/armada/README.md",
+  "qna": "https://github.com/hakan-akgul/armada/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakan-akgul/armada.git"
+  },
+  "author": {
+    "email": "akgul.hakan.dev@gmail.com",
+    "name": "Hakan Akgül"
+  },
+  "bugs": {
+    "email": "akgul.hakan.dev@gmail.com",
+    "url": "https://github.com/hakan-akgul/armada/issues"
+  },
+  "keywords": [
+    "armada",
+    "theme",
+    "dark",
+    "minimal",
+    "flat"
+  ],
+  "license": "MIT",
+  "__metadata": {
+    "id": "79af0f75-e9dc-4a40-9bb9-5aeeb06e72eb",
+    "publisherDisplayName": "hakan-akgul",
+    "publisherId": "aece9fe0-c141-42ca-b341-d51156444132"
+  }
 }

@@ -1,5 +1,12 @@
 # Change Log
 
+## v2.2.0
+- Editor error/warning/info foreground/background updated
+- Diff editor changed lines backgrounds updated
+- Not allowed items deleted
+- Markdown paragraph color changed
+- Other minor updates
+
 ## v2.1.0
 - Diff editor border updated
 - Suggestion widget colors updated
