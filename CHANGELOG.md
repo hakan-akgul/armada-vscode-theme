@@ -1,5 +1,9 @@
 # Change Log
 
+## v2.3.0
+- Diff editor items transparency increased
+- FindMatch items transparency increased
+
 ## v2.2.0
 - Editor error/warning/info foreground/background updated
 - Diff editor changed lines backgrounds updated
