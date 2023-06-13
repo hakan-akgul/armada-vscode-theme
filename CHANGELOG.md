@@ -1,5 +1,9 @@
 # Change Log
 
+## v2.5.0
+- Diff editor colors updated
+- Bracket pair colors updated
+
 ## v2.4.0
 - Diff editor colors updated
 - FindMatch colors updated
