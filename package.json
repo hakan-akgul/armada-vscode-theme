@@ -3,7 +3,7 @@
   "displayName": "theme armada",
   "publisher": "hakan-akgul",
   "description": "a flat dark theme for minimalism lovers",
-  "version": "2.5.0",
+  "version": "3.0.0",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -21,7 +21,7 @@
   },
   "icon": "images/Icon.png",
   "galleryBanner": {
-    "color": "#F05454",
+    "color": "#ea3131",
     "theme": "dark"
   },
   "homepage": "https://github.com/hakan-akgul/armada/README.md",
