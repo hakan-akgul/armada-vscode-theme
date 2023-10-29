@@ -1,7 +1,9 @@
 # Armada Color Theme
-## A flat dark theme for minimalism lovers  
 
-  This theme is under heavy development! 
+> [!WARNING]
+> This theme is under heavy development
+
+## A flat dark theme for minimalism lovers
 
 ## Screenshots
 
@@ -9,23 +11,23 @@
 
 ## Share Extension
 
-Please share this theme extension with others that might find it useful.<br>
+Please share this theme extension with others that might find it useful.  
 
-__Share To :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://twitter.com/intent/tweet?url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada)  
+__Share To :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://twitter.com/intent/tweet?url=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada) &nbsp;&nbsp;|&nbsp;&nbsp; [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemname=hakan-akgul.armada)
 
-<hr>  
+---
 
-## Feedback  
+## Feedback
 
-[Issues](https://github.com/hakan-akgul/armada/issues)  
+[Issues](https://github.com/hakan-akgul/armada/issues)
 
-<hr>  
+---
 
-## Follow Developer  
+## Follow Developer
 
-[LinkedIn](https://www.linkedin.com/in/hakan-akgül) &nbsp;&nbsp; | &nbsp;&nbsp; [GitHub](https://github.com/hakan-akgul/)  
+[LinkedIn](https://www.linkedin.com/in/hakan-akgül) &nbsp;&nbsp; | &nbsp;&nbsp; [GitHub](https://github.com/hakan-akgul/)
 
-<hr>  
+---
 
 ## License
 
