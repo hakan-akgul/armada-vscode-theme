@@ -1,5 +1,10 @@
 # Change Log
 
+## v3.1.2
+
+- Token colors are updated
+- List hover & select colors are updated
+
 ## v3.1.1
 
 - Semantic colors are updated

@@ -231,20 +231,20 @@
     "keybindingLabel.bottomBorder": "#95A1B230",
     "keybindingLabel.foreground": "#9DB2BF",
     "list.activeSelectionBackground": "#223043",
-    "list.activeSelectionForeground": "#95A1B2",
-    "list.activeSelectionIconForeground": "#95A1B2",
+    "list.activeSelectionForeground": "#9DB2BF",
+    "list.activeSelectionIconForeground": "#9DB2BF",
     "list.inactiveSelectionBackground": "#223043",
     "list.inactiveSelectionForeground": "#95A1B2",
     "list.inactiveSelectionIconForeground": "#95A1B2",
     "list.invalidItemForeground": "#95A1B2",
     "list.inactiveFocusOutline": "#223043",
     "list.hoverBackground": "#223043",
-    "list.hoverForeground": "#95A1B2",
-    "list.filterMatchBackground": "#95A1B2",
-    "list.filterMatchBorder": "#00000000",
+    "list.hoverForeground": "#9DB2BF",
+    "list.filterMatchBackground": "#50719E90",
+    "list.filterMatchBorder": "#50719E",
     "list.focusBackground": "#223043",
-    "list.focusForeground": "#ee5a5a",
-    "list.focusHighlightForeground": "#ea3131",
+    "list.focusForeground": "#9DB2BF",
+    "list.focusHighlightForeground": "#9DB2BF",
     "list.highlightForeground": "#95A1B2",
     "list.dropBackground": "#223043",
     "list.deemphasizedForeground": "#9DB2BF",
@@ -450,13 +450,13 @@
     {
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
       "scope": "constant.language.undefined",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
@@ -576,19 +576,19 @@
     {
       "scope": "keyword.operator.new",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
       "scope": "keyword.operator.expression.void",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
       "scope": "keyword.operator.expression.delete",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
@@ -720,7 +720,7 @@
     {
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#F6EF87"
+        "foreground": "#F6814C"
       }
     },
     {
