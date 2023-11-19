@@ -1,5 +1,10 @@
 # Change Log
 
+## v3.1.3
+
+- Suggestion widget updates
+- Diff editor border updated
+
 ## v3.1.2
 
 - Token colors are updated
