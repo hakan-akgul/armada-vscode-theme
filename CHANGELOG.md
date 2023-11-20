@@ -1,5 +1,11 @@
 # Change Log
 
+## v3.1.4
+
+- Suggestion widget colors updated
+- Scrollbar colors updated
+- Diff editor border color updated
+
 ## v3.1.3
 
 - Suggestion widget updates
