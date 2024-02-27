@@ -1,5 +1,11 @@
 # Change Log
 
+## v3.1.5
+
+- Peek colors updated
+- Git colors updated
+- Tab border color added for better active tab identification
+
 ## v3.1.4
 
 - Suggestion widget colors updated
