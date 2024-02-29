@@ -1,5 +1,10 @@
 # Change Log
 
+## v3.1.6
+
+- Debug toolbar & peek view updates
+- Editor tab border color reverted
+
 ## v3.1.5
 
 - Peek colors updated
