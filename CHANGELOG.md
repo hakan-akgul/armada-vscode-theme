@@ -1,5 +1,9 @@
 # Change Log
 
+## v3.1.7
+
+- Input & widget updates
+
 ## v3.1.6
 
 - Debug toolbar & peek view updates
