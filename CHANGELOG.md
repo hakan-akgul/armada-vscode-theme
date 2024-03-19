@@ -1,5 +1,11 @@
 # Change Log
 
+## v3.1.8
+
+- Focus border added
+- Multi diff editor headers updated
+- Range highlight added for symbol selections
+
 ## v3.1.7
 
 - Input & widget updates
